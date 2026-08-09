@@ -1,0 +1,250 @@
+{
+    "summary": {
+        "rows": 20640,
+        "columns": 10,
+        "missing_values": 207,
+        "duplicates": 0,
+        "memory_mb": 2.7
+    },
+    "statistics": {
+        "longitude": {
+            "count": 20640.0,
+            "unique": NaN,
+            "top": NaN,
+            "freq": NaN,
+            "mean": 435.96327519379844,
+            "std": 199.07861508311208,
+            "min": 0.0,
+            "25%": 213.0,
+            "50%": 544.0,
+            "75%": 592.0,
+            "max": 843.0
+        },
+        "latitude": {
+            "count": 20640.0,
+            "unique": NaN,
+            "top": NaN,
+            "freq": NaN,
+            "mean": 35.63186143410852,
+            "std": 2.1359523974571153,
+            "min": 32.54,
+            "25%": 33.93,
+            "50%": 34.26,
+            "75%": 37.71,
+            "max": 41.95
+        },
+        "housing_median_age": {
+            "count": 20640.0,
+            "unique": NaN,
+            "top": NaN,
+            "freq": NaN,
+            "mean": 28.639486434108527,
+            "std": 12.58555761211165,
+            "min": 1.0,
+            "25%": 18.0,
+            "50%": 29.0,
+            "75%": 37.0,
+            "max": 52.0
+        },
+        "total_rooms": {
+            "count": 20640.0,
+            "unique": NaN,
+            "top": NaN,
+            "freq": NaN,
+            "mean": 2635.7630813953488,
+            "std": 2181.615251582795,
+            "min": 2.0,
+            "25%": 1447.75,
+            "50%": 2127.0,
+            "75%": 3148.0,
+            "max": 39320.0
+        },
+        "total_bedrooms": {
+            "count": 20433.0,
+            "unique": NaN,
+            "top": NaN,
+            "freq": NaN,
+            "mean": 537.8705525375618,
+            "std": 421.3850700740323,
+            "min": 1.0,
+            "25%": 296.0,
+            "50%": 435.0,
+            "75%": 647.0,
+            "max": 6445.0
+        },
+        "population": {
+            "count": 20640.0,
+            "unique": NaN,
+            "top": NaN,
+            "freq": NaN,
+            "mean": 1425.4767441860465,
+            "std": 1132.462121765341,
+            "min": 3.0,
+            "25%": 787.0,
+            "50%": 1166.0,
+            "75%": 1725.0,
+            "max": 35682.0
+        },
+        "households": {
+            "count": 20640.0,
+            "unique": NaN,
+            "top": NaN,
+            "freq": NaN,
+            "mean": 499.5396802325581,
+            "std": 382.32975283161073,
+            "min": 1.0,
+            "25%": 280.0,
+            "50%": 409.0,
+            "75%": 605.0,
+            "max": 6082.0
+        },
+        "median_income": {
+            "count": 20640.0,
+            "unique": NaN,
+            "top": NaN,
+            "freq": NaN,
+            "mean": 3.8706710029069766,
+            "std": 1.8998217179452688,
+            "min": 0.4999,
+            "25%": 2.5633999999999997,
+            "50%": 3.5347999999999997,
+            "75%": 4.74325,
+            "max": 15.0001
+        },
+        "median_house_value": {
+            "count": 20640.0,
+            "unique": NaN,
+            "top": NaN,
+            "freq": NaN,
+            "mean": 206855.81690891474,
+            "std": 115395.61587441387,
+            "min": 14999.0,
+            "25%": 119600.0,
+            "50%": 179700.0,
+            "75%": 264725.0,
+            "max": 500001.0
+        },
+        "ocean_proximity": {
+            "count": 20640,
+            "unique": 5,
+            "top": "<1H OCEAN",
+            "freq": 9136,
+            "mean": NaN,
+            "std": NaN,
+            "min": NaN,
+            "25%": NaN,
+            "50%": NaN,
+            "75%": NaN,
+            "max": NaN
+        }
+    },
+    "correlation": {
+        "longitude": {
+            "longitude": 1.0,
+            "latitude": -0.926,
+            "housing_median_age": -0.108,
+            "total_rooms": 0.045,
+            "total_bedrooms": 0.07,
+            "population": 0.1,
+            "households": 0.056,
+            "median_income": -0.015,
+            "median_house_value": -0.046
+        },
+        "latitude": {
+            "longitude": -0.926,
+            "latitude": 1.0,
+            "housing_median_age": 0.011,
+            "total_rooms": -0.036,
+            "total_bedrooms": -0.067,
+            "population": -0.109,
+            "households": -0.071,
+            "median_income": -0.08,
+            "median_house_value": -0.144
+        },
+        "housing_median_age": {
+            "longitude": -0.108,
+            "latitude": 0.011,
+            "housing_median_age": 1.0,
+            "total_rooms": -0.361,
+            "total_bedrooms": -0.32,
+            "population": -0.296,
+            "households": -0.303,
+            "median_income": -0.119,
+            "median_house_value": 0.106
+        },
+        "total_rooms": {
+            "longitude": 0.045,
+            "latitude": -0.036,
+            "housing_median_age": -0.361,
+            "total_rooms": 1.0,
+            "total_bedrooms": 0.93,
+            "population": 0.857,
+            "households": 0.918,
+            "median_income": 0.198,
+            "median_house_value": 0.134
+        },
+        "total_bedrooms": {
+            "longitude": 0.07,
+            "latitude": -0.067,
+            "housing_median_age": -0.32,
+            "total_rooms": 0.93,
+            "total_bedrooms": 1.0,
+            "population": 0.878,
+            "households": 0.98,
+            "median_income": -0.008,
+            "median_house_value": 0.05
+        },
+        "population": {
+            "longitude": 0.1,
+            "latitude": -0.109,
+            "housing_median_age": -0.296,
+            "total_rooms": 0.857,
+            "total_bedrooms": 0.878,
+            "population": 1.0,
+            "households": 0.907,
+            "median_income": 0.005,
+            "median_house_value": -0.025
+        },
+        "households": {
+            "longitude": 0.056,
+            "latitude": -0.071,
+            "housing_median_age": -0.303,
+            "total_rooms": 0.918,
+            "total_bedrooms": 0.98,
+            "population": 0.907,
+            "households": 1.0,
+            "median_income": 0.013,
+            "median_house_value": 0.066
+        },
+        "median_income": {
+            "longitude": -0.015,
+            "latitude": -0.08,
+            "housing_median_age": -0.119,
+            "total_rooms": 0.198,
+            "total_bedrooms": -0.008,
+            "population": 0.005,
+            "households": 0.013,
+            "median_income": 1.0,
+            "median_house_value": 0.688
+        },
+        "median_house_value": {
+            "longitude": -0.046,
+            "latitude": -0.144,
+            "housing_median_age": 0.106,
+            "total_rooms": 0.134,
+            "total_bedrooms": 0.05,
+            "population": -0.025,
+            "households": 0.066,
+            "median_income": 0.688,
+            "median_house_value": 1.0
+        }
+    },
+    "insights": [
+        "total_rooms is strongly positively skewed.",
+        "total_bedrooms is strongly positively skewed.",
+        "population is strongly positively skewed.",
+        "households is strongly positively skewed.",
+        "median_income is strongly positively skewed.",
+        "total_bedrooms contains 207 missing values (1.00%)."
+    ]
+}

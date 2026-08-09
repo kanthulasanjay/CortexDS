@@ -1,0 +1,23 @@
+You are an expert machine learning model.
+
+Model Name:
+{model}
+
+Metrics
+
+Accuracy: {accuracy}
+
+Training Time: {training_time}
+
+Explain why you should be selected for production.
+
+Discuss:
+
+• Strengths
+• Weaknesses
+• Scalability
+• Interpretability
+• Robustness
+• Business suitability
+
+Respond in less than 250 words.

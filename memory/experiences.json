@@ -1,0 +1,156 @@
+[
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmp19_7082g.xls",
+        "target": "default",
+        "model": "CatBoost",
+        "metrics": {
+            "accuracy": 0.8238
+        },
+        "optimized_score": 0.7476333333333334
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmpx47gp_sb.xls",
+        "target": "default",
+        "model": "XGBoost Classifier",
+        "metrics": {
+            "accuracy": 0.8186666666666667
+        },
+        "optimized_score": 0.8198333333333333
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmpwzfp3rxx.xls",
+        "target": "default",
+        "model": "XGBoost Classifier",
+        "metrics": {
+            "accuracy": 0.8186666666666667
+        },
+        "optimized_score": 0.8191666666666667
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmpi92n2jic.xls",
+        "target": "default",
+        "model": "XGBoost Classifier",
+        "metrics": {
+            "accuracy": 0.8186666666666667
+        },
+        "optimized_score": 0.8195
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmp_vpib4bo.xls",
+        "target": "default",
+        "model": "XGBoost Classifier",
+        "metrics": {
+            "accuracy": 0.8186666666666667
+        },
+        "optimized_score": 0.8198333333333333
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmpsa34y2tk.csv",
+        "target": "median_house_value",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.8313015085315136,
+            "rmse": 418.5004628811537
+        },
+        "optimized_score": 0.827647000909333
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmpbpdwiyqg.xls",
+        "target": "default",
+        "model": "XGBoost Classifier",
+        "metrics": {
+            "accuracy": 0.8186666666666667
+        },
+        "optimized_score": 0.8193333333333334
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmptdofzkh9.csv",
+        "target": "median_house_value",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.8313015085315136,
+            "rmse": 418.5004628811537
+        },
+        "optimized_score": 0.8260805801796971
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmp0pugaacv.csv",
+        "target": "median_house_value",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.8313015085315136,
+            "rmse": 418.5004628811537
+        },
+        "optimized_score": 0.8220444279556358
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmp_awj2mv5.csv",
+        "target": "median_house_value",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.8313015085315136,
+            "rmse": 418.5004628811537
+        },
+        "optimized_score": 0.8263696545078507
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmp4eiu3vjs.csv",
+        "target": "median_house_value",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.8313015085315136,
+            "rmse": 418.5004628811537
+        },
+        "optimized_score": 0.821585623631889
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmplwu0vop7.csv",
+        "target": "median_house_value",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.8313015085315136,
+            "rmse": 418.5004628811537
+        },
+        "optimized_score": 0.8267906976061739
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmptd202fqh.csv",
+        "target": "median_house_value",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.8313015085315136,
+            "rmse": 418.5004628811537
+        },
+        "optimized_score": 0.8266800751459555
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmp0hzvp9zw.csv",
+        "target": "median_house_value",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.8313015085315136,
+            "rmse": 418.5004628811537
+        },
+        "optimized_score": 0.821005637730795
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmp5dbwrb_u.csv",
+        "target": "median_house_value",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.8313015085315136,
+            "rmse": 418.5004628811537
+        },
+        "optimized_score": 0.8276464299741784
+    },
+    {
+        "dataset_path": "C:\\Users\\Kanth\\AppData\\Local\\Temp\\tmp10f61kof.csv",
+        "target": "longitude",
+        "model": "Random Forest Regressor",
+        "metrics": {
+            "r2_score": 0.9841677160508799,
+            "rmse": 24.94297282365624
+        },
+        "optimized_score": 0.9837229116776578
+    }
+]
