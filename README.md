@@ -268,7 +268,7 @@ Hugging Face inference/API integration where configured
 
 Clone the repository
 
-git clone https://github.com/kanthulasanjay/CortexDS.gitcd CortexDS
+git clone https://github.com/kanthulasanjay/CortexDS
 
 Create a virtual environment
 
